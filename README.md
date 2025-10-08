@@ -83,14 +83,14 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-<img width="1919" height="549" alt="Screenshot 2025-10-08 140718" src="https://github.com/user-attachments/assets/9308fb3b-5a71-426f-b711-48b733165330" />
-<img width="891" height="432" alt="Screenshot 2025-10-08 140525" src="https://github.com/user-attachments/assets/4cb6d573-9ae4-4eef-9768-425f2af75775" />
+
+<img width="891" height="432" alt="Screenshot 2025-10-08 140525" src="https://github.com/user-attachments/assets/cf813d88-6ac5-4b49-b2a9-57c7d9074e9b" />
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-<img width="891" height="432" alt="Screenshot 2025-10-08 140525" src="https://github.com/user-attachments/assets/913e58b5-f2f6-46b0-acbd-11d644c689c5" />
-<img width="1919" height="549" alt="Screenshot 2025-10-08 140718" src="https://github.com/user-attachments/assets/beab5aa4-b451-403a-832d-75370177fc01" />
+<img width="1919" height="549" alt="Screenshot 2025-10-08 140718" src="https://github.com/user-attachments/assets/f8aeb244-6aea-4981-834c-3aca591f5bd1" />
+
 
 
 **RESULTS**
